@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://veyor.in"),
@@ -41,7 +42,6 @@ export const metadata: Metadata = {
     siteName: "VEYOR",
     locale: "en_IN",
     type: "website",
-
     images: [
       {
         url: "/og-image.jpg",
@@ -77,8 +77,11 @@ export default function RootLayout({
     <html lang="en">
       <body className="bg-black text-white">
         <Navbar />
+
         {children}
+
         <Footer />
+
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -101,6 +104,8 @@ export default function RootLayout({
             }),
           }}
         />
+
+        <SpeedInsights />
       </body>
     </html>
   );
