@@ -28,7 +28,7 @@ export default function AboutPreview() {
 
             {/* Floating Experience Card */}
             <div className="absolute -bottom-10 -right-10 bg-[#C89B6D] p-8 rounded-3xl shadow-2xl">
-              <h3 className="text-5xl font-bold text-white">1+</h3>
+              <h3 className="text-5xl font-bold text-white">10+</h3>
               <p className="text-white/90 mt-2">
                 Years of
                 <br />
