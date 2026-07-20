@@ -8,7 +8,7 @@ const services = [
   {
     title: "Wood Works",
     image:
-      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1604691634001-006dd07cf639?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description:
       "Custom woodwork solutions including wardrobes, modular kitchens, TV units, office furniture, and premium interior finishes.",
     features: [
@@ -21,7 +21,7 @@ const services = [
   {
     title: "Metal Works",
     image:
-      "https://images.unsplash.com/photo-1517048676732-d65bc937f952?q=80&w=1600&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1685713011172-3ba27ff25e22?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description:
       "Professional metal fabrication solutions for residential, commercial, and industrial projects.",
     features: [
@@ -34,7 +34,7 @@ const services = [
   {
     title: "False Ceiling Works",
     image:
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1600&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1731922422051-e2a6e90ca718?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description:
       "Modern false ceiling solutions designed to improve aesthetics and functionality.",
     features: [

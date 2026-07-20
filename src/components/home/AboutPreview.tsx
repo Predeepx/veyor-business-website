@@ -19,7 +19,7 @@ export default function AboutPreview() {
           >
             <div className="relative h-[650px] rounded-3xl overflow-hidden">
               <Image
-                src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=1600&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1721508490122-445daade2d39?q=80&w=1011&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="VEYOR Construction Work"
                 fill
                 className="object-cover"
@@ -28,7 +28,7 @@ export default function AboutPreview() {
 
             {/* Floating Experience Card */}
             <div className="absolute -bottom-10 -right-10 bg-[#C89B6D] p-8 rounded-3xl shadow-2xl">
-              <h3 className="text-5xl font-bold text-white">7+</h3>
+              <h3 className="text-5xl font-bold text-white">1+</h3>
               <p className="text-white/90 mt-2">
                 Years of
                 <br />

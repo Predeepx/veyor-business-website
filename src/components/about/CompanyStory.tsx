@@ -142,7 +142,7 @@ export default function CompanyStory() {
             {/* Main Image */}
             <div className="relative h-[650px] rounded-3xl overflow-hidden">
               <Image
-                src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=1600&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1681965825791-7befca134490?q=80&w=1657&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="VEYOR Team at Work"
                 fill
                 className="object-cover"
@@ -151,7 +151,7 @@ export default function CompanyStory() {
 
             {/* Floating Card */}
             <div className="absolute -bottom-8 -left-8 bg-[#C89B6D] rounded-3xl p-8 shadow-2xl">
-              <h3 className="text-5xl font-bold text-white">7+</h3>
+              <h3 className="text-5xl font-bold text-white">10+</h3>
               <p className="text-white/90 mt-2">
                 Years of
                 <br />

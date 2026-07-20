@@ -5,7 +5,7 @@ import Footer from "@/components/layout/Footer";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://veyor.in"),
+  metadataBase: new URL("https://veyor.org"),
 
   title: {
     default: "VEYOR | Wood Works & Construction Solutions Chennai",

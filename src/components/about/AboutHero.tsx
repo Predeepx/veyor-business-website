@@ -10,12 +10,12 @@ export default function AboutHero() {
         className="absolute inset-0 bg-cover bg-center"
         style={{
           backgroundImage:
-            "url('https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=2000&auto=format&fit=crop')",
+            "url('https://images.unsplash.com/photo-1604691634001-006dd07cf639?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')",
         }}
       />
 
       {/* Overlay */}
-      <div className="absolute inset-0 bg-black/70" />
+      <div className="absolute inset-0 bg-black/30" />
 
       {/* Gradient */}
       <div className="absolute inset-0 bg-gradient-to-r from-black via-black/90 to-transparent" />
@@ -39,7 +39,7 @@ export default function AboutHero() {
             <br />
             Spaces For
             <br />
-            Over 7 Years
+            Over 11 Years
           </h1>
 
           {/* Accent Line */}

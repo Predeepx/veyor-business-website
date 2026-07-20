@@ -173,7 +173,7 @@ export default function Footer() {
               <h4 className="text-white font-semibold mb-2">Address</h4>
 
               <p className="text-white/70">
-                No.1/236, Bajanai Koil Street, Pudiamallur, Chennai, Tamil Nadu
+                No.1/236, Bajanai Koil Street, Padiyanallur, Chennai, Tamil Nadu
                 - 600052
               </p>
             </div>

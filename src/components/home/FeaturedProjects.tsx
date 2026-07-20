@@ -9,13 +9,13 @@ const projects = [
     title: "Luxury Wooden Interior",
     category: "Wood Works",
     image:
-      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1750161627803-ee0936a9264d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     title: "Modern False Ceiling",
     category: "False Ceiling",
     image:
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1600&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1610459716431-e07abcf74230?q=80&w=1515&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     title: "Commercial Fabrication",
@@ -27,7 +27,7 @@ const projects = [
     title: "Premium Aluminium Installation",
     category: "Aluminium Works",
     image:
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1615315120852-afc256684134?q=80&w=2141&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 ];
 
